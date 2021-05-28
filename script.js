@@ -12,7 +12,7 @@ testingName(`Adriel`)
 
 //3
 function myProfile(name, age, kindOfMusic){
-    console.log(`Meu nome é ${name}, tenho ${age} anos, e gosto do genero musical favorito se chama ${kindOfMusic}.`)
+    console.log(`Meu nome é ${name}, tenho ${age} anos, e meu estilo musical favorito se chama ${kindOfMusic}.`)
 }
 myProfile(`Adriel`,`18`,`Folk`)
 
